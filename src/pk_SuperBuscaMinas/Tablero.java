@@ -436,12 +436,5 @@ public class Tablero {
 		}
 				
 		return numMinas;
-	}
-
-	/**
-	 * Método que imprime una matriz por pantalla
-	 */
-	public static void imprimeMatrizBotones(BotonMina[][] matrizBotones) {
-// TODO
 	}		
 }

@@ -11,6 +11,8 @@ public class SuperBuscaMinas {
 	 * Launch the application.
 	 */
 	public static void main(String[] args) {
+//		BotonMina [][] matriz =  new BotonMina[3][5];
+//		Tablero.imprimeMatrizBotones(matriz);
 		EventQueue.invokeLater(new Runnable() {
 			public void run() {
 				try {
